@@ -1,6 +1,6 @@
 {
   "name": "@tunnel/server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./cjs/index.js",
   "module": "./esm/index.js",
   "bin": {
